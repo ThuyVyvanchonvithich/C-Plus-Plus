@@ -1,0 +1,2 @@
+Setting:vinh,vinh@gmail.com,01234567,2,2/Display:0,0,0/Sound:2,2,2,2/General:  Bangkok, Hanoi, Jakarta; Vietnamese/
+Setting:tan,tan@gmail.com,12345678,2,2/Display:1,1,1/Sound:8,8,8,8/General:  Bangkok, Hanoi, Jakarta; Vietnamese/

@@ -1,0 +1,3 @@
+Setting:abc,abc@gmail.com,22224444,12,2000/Display:0,0,0/Sound:0,0,0,0/General:  International Date Line West; Yue (inc. Cantonese)/
+Setting:vinh,vinh@gmail.com,12345678,2,20000/Display:2,2,2/Sound:0,0,0,0/General:  Atlantic Time (Canada); Turkish/
+Setting:hoa,hoa@gmail.com,87654321,1,1/Display:0,0,0/Sound:1,1,1,1/General:  Bangkok, Hanoi, Jakarta;Vietnamese/
