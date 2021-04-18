@@ -1,0 +1,6 @@
+﻿  list.cpp
+d:\fpt university\computer fundamental programing\c++ advance (cpp201x)\cpp201x_project_2_tanpnmce130084@fpt.edu.vn\assignment 02\assignment 02\list.cpp(33): warning C4715: 'List<Setting *>::get': not all control paths return a value
+d:\fpt university\computer fundamental programing\c++ advance (cpp201x)\cpp201x_project_2_tanpnmce130084@fpt.edu.vn\assignment 02\assignment 02\list.cpp(33): warning C4715: 'List<Sound *>::get': not all control paths return a value
+d:\fpt university\computer fundamental programing\c++ advance (cpp201x)\cpp201x_project_2_tanpnmce130084@fpt.edu.vn\assignment 02\assignment 02\list.cpp(33): warning C4715: 'List<General *>::get': not all control paths return a value
+d:\fpt university\computer fundamental programing\c++ advance (cpp201x)\cpp201x_project_2_tanpnmce130084@fpt.edu.vn\assignment 02\assignment 02\list.cpp(33): warning C4715: 'List<Display *>::get': not all control paths return a value
+  Assignment 02.vcxproj -> D:\FPT University\Computer Fundamental Programing\C++ Advance (CPP201x)\CPP201x_Project_2_TanPNMCE130084@fpt.edu.vn\Assignment 02\Debug\Assignment 02.exe
