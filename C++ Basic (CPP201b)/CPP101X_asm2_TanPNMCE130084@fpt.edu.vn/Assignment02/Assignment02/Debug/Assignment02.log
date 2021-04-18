@@ -1,5 +1,0 @@
-﻿  Assignment02.cpp
-d:\fpt university\computer fundamental programing\basic c++ (cpp101x)\cpp101x_asm2_tanpnmce130084@fpt.edu.vn\assignment02\assignment02\assignment02.cpp(30): warning C4091: 'typedef ': ignored on left of 'CarDrive' when no variable is declared
-d:\fpt university\computer fundamental programing\basic c++ (cpp101x)\cpp101x_asm2_tanpnmce130084@fpt.edu.vn\assignment02\assignment02\assignment02.cpp(39): warning C4091: 'typedef ': ignored on left of 'CompareAlgorithm' when no variable is declared
-  Assignment02.vcxproj -> D:\FPT University\Computer Fundamental Programing\Basic C++ (CPP101x)\CPP101X_asm2_TanPNMCE130084@fpt.edu.vn\Assignment02\Debug\Assignment02.exe
-  Assignment02.vcxproj -> D:\FPT University\Computer Fundamental Programing\Basic C++ (CPP101x)\CPP101X_asm2_TanPNMCE130084@fpt.edu.vn\Assignment02\Debug\Assignment02.pdb (Full PDB)
