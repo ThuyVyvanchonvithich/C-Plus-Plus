@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CPP101b_PE_tanpnmce130084.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CPP101b_PE_tanpnmce130084.cpp
+  CPP101b_PE_tanpnmce130084.vcxproj -> D:\FPT University\Computer Fundamental Programing\Basic C++ (CPP101x)\Practice Exam\CPP101b_PE_tanpnmce130084\Debug\Exercise01.exe
