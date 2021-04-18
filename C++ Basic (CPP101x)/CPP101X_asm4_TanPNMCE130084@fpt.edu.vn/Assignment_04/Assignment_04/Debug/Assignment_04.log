@@ -1,0 +1,4 @@
+﻿  MyUtils.cpp
+d:\fpt university\computer fundamental programing\basic c++ (cpp101x)\cpp101x_asm4_tanpnmce130084@fpt.edu.vn\assignment_04\assignment_04\myutils.h(21): warning C4091: 'typedef ': ignored on left of 'CarDrive' when no variable is declared
+d:\fpt university\computer fundamental programing\basic c++ (cpp101x)\cpp101x_asm4_tanpnmce130084@fpt.edu.vn\assignment_04\assignment_04\myutils.h(29): warning C4091: 'typedef ': ignored on left of 'CompareAlgorithm' when no variable is declared
+  Assignment_04.vcxproj -> D:\FPT University\Computer Fundamental Programing\Basic C++ (CPP101x)\CPP101X_asm4_TanPNMCE130084@fpt.edu.vn\Assignment_04\Debug\Assignment_04.exe
